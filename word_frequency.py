@@ -24,7 +24,8 @@ def scrub_text(filepath):
 ###############################################################################
 
 def get_words(filepath):
-    """Takes the text of a file and returns a list of every word found in the file.
+    """Takes the text of a file and returns a list of every word
+    found in the file.
 
     Keyword Arguments:
     filepath -- the path to the file you wish to use
